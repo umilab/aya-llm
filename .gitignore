@@ -1,0 +1,9 @@
+api/weights/**
+!api/weights/put_your_models_here.txt
+
+.env.*
+.env
+!.env.sample
+
+node_modules
+__pycache__
