@@ -17,7 +17,7 @@
   let repeat_penalty = 1.3;
 
   let init_prompt =
-    "Below is an instruction that describes a task. Write a response that appropriately completes the request.";
+    "Your name is Aya ! You are a Personal Intelligent Assistant developed by Weloobe. Carefully heed the user's instructions. Respond using Markdown.";
 
   let n_threads = 4;
   let context_window = 512;
