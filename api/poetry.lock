@@ -1764,14 +1764,14 @@ sqlcipher = ["sqlcipher3-binary"]
 
 [[package]]
 name = "sse-starlette"
-version = "1.5.0"
+version = "1.6.0"
 description = "\"SSE plugin for Starlette\""
 category = "main"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "sse-starlette-1.5.0.tar.gz", hash = "sha256:4fa989d906f29ba456a047071cbd9eab8c934042d5da4660543ad4b61c59c092"},
-    {file = "sse_starlette-1.5.0-py3-none-any.whl", hash = "sha256:b41aac15f83191a4fc381e8cd152285cd44e328f409dc2bdfd4b7d7f33ea3865"},
+    {file = "sse-starlette-1.6.0.tar.gz", hash = "sha256:b9cb77cd61a686466105171090a050a42df45ff76d6034f6668b1bca7dba55fb"},
+    {file = "sse_starlette-1.6.0-py3-none-any.whl", hash = "sha256:14dfde4d5c8e319251655800c4efcae581b2283503ece3826a62d92975e997ff"},
 ]
 
 [package.dependencies]
@@ -2250,4 +2250,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<4.0"
-content-hash = "8f2246cf485b0fdad65c70b0b0a2ad8ea262a3e02d72e9c020d77d0df8570125"
+content-hash = "d06990de3dff9805c4d88d918b3f05418bd08937b2db0bd869b04d1ed87fcee1"
